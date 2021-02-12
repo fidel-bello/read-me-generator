@@ -67,11 +67,11 @@ const questions = [
 ];
 // function to write README file
 function writeToFile(fileName, data) {
-    fs.writeFile("./README"+fileName, data, function(err){
+    fs.writeFile(fileName, data, function(err){
         if (err) {
             return console.log(err);
         }
-        console.log ("Succesfully worte: " +fileName);
+        console.log ("Succesfully wrote: " +fileName);
     });
 };
 

@@ -16,7 +16,7 @@
  
 
    ## Installation
-   * demo 
+   * demo  
 
    ## Usage 
    * demo
@@ -26,7 +26,7 @@
    * This application is covered by MIT
 
    ## Contributing
-   * demo
+   * demo 
 
    ## Test
    * demo
@@ -34,6 +34,6 @@
    ## Questions
    * demo
    * :octocat: My github is: [fidel-bello](https://github.com/fidel-bello)<br />
-   *  Email me with questions: fidel_23@live.com<br /><br />
+   *  Email me with questions: demo<br /><br />
 
   
