@@ -1,5 +1,5 @@
 
-    Read Me Generator
+   <h1 align="center">Read Me Generator</h1>
 
    ## Description
    * demo
@@ -8,7 +8,7 @@
    * [Description](#Description)
    * [Installation](#Installation)
    * [Usage](#Usage)
-   * [licence](#License)
+   * [license](#License)
    * [Contributing](#Contributing)
    * [Test](#Test)
    * [Questions](#Questions)
@@ -30,10 +30,11 @@
 
    ## Test
    * demo 
+   
+   # Screenshots or video
 
    ## Questions
    * demo
-   * My github is: [fidel-bello](https://github.com/fidel-bello)<br />
-   * Email me with questions: demo<br /><br />
-
+   * My github is: [fidel-bello](https://github.com/fidel-bello)
+   * Email me with questions: demo
   
