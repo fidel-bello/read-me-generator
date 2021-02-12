@@ -17,7 +17,7 @@ const questions = [
 },
 {
     type: "input",
-    message: "PLease give description of your project.",
+    message: "Please give description of your project.",
     name: "Description",
 },
 {
@@ -32,7 +32,7 @@ const questions = [
 },
 {
     type: "list", 
-    message: "choose license for this project: ",
+    message: "Choose license for this project: ",
     name: "License",
     choices: [
         "Apache",
