@@ -67,8 +67,8 @@ const questions = [
 ];
 // function to write README file
 function writeToFile(fileName, data) {
-    fs.writeFile("./demoReadME"+fileName, data, function(err){
-        if (error) {
+    fs.writeFile("./README"+fileName, data, function(err){
+        if (err) {
             return console.log(err);
         }
         console.log ("Succesfully worte: " +fileName);
@@ -78,7 +78,7 @@ function writeToFile(fileName, data) {
 // function to initialize program
 function init() {
  inquirer.prompt(questions).then(function(data){
-     writeToFile("readMeDemo.md", markDown(data));
+     writeToFile("README.md", markDown(data));
  });
 };
 

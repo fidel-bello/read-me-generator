@@ -1,5 +1,5 @@
 
-    Read Me Generator
+    read me generator
     
     ## Description
     * demo
@@ -26,13 +26,13 @@
    * This application is covered by MIT
 
    ## Contributing
-   * just me
+   * demo
 
    ## Test
-   * node
+   * demo
 
    ## Questions
-   * email or github me
+   * demo
    * :octocat: My github is: [fidel-bello](https://github.com/fidel-bello)<br />
    *  Email me with questions: fidel_23@live.com<br /><br />
 
