@@ -1,5 +1,5 @@
 
-   <h1 align="center">Read Me Generator</h1>
+    <h1 align="center">Read Me Generator</h1>
 
    ## Description
    * demo
@@ -8,7 +8,7 @@
    * [Description](#Description)
    * [Installation](#Installation)
    * [Usage](#Usage)
-   * [license](#License)
+   * [licence](#License)
    * [Contributing](#Contributing)
    * [Test](#Test)
    * [Questions](#Questions)
@@ -26,15 +26,14 @@
    * This application is covered by MIT
 
    ## Contributing
-   * demo 
+   * demo
 
    ## Test
-   * demo 
-   
-   # Screenshots or video
+   * demo
 
    ## Questions
    * demo
    * My github is: [fidel-bello](https://github.com/fidel-bello)
-   * Email me with questions: demo
+   * Email me with questions: fidel_23@live.com
+
   
