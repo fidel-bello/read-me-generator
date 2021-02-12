@@ -40,6 +40,6 @@ function generateMarkdown(data) {
    * :octocat: My github is: [${data.UserName}](https://github.com/${data.UserName})<br />
    *  Email me with questions: ${data.Email}<br /><br />
 
-  `;
+  `
   }
   module.exports = generateMarkdown;

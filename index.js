@@ -1,7 +1,7 @@
+//imports
 const inquirer = require('inquirer');
 const fs = require('fs')
 const markDown = require('./utils/markDown');
-const { type } = require('os');
 // array of questions for user
 const questions = [
 {
@@ -67,12 +67,20 @@ const questions = [
 ];
 // function to write README file
 function writeToFile(fileName, data) {
-}
+    fs.writeFile("./demoReadME"+fileName, data, function(err){
+        if (error) {
+            return console.log(err);
+        }
+        console.log ("Succesfully worte: " +fileName);
+    });
+};
 
 // function to initialize program
 function init() {
-
-}
+ inquirer.prompt(questions).then(function(data){
+     writeToFile("readMeDemo.md", markDown(data));
+ });
+};
 
 // function call to initialize program
 init();
