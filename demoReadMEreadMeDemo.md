@@ -1,9 +1,8 @@
 
-    <h1 align="center">l</h1>
-    [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/l/l)
-   
+    Read Me Generator
+    
     ## Description
-    * l
+    * demo
 
     ## Table of Contents
    -[Description](#Description)
@@ -17,25 +16,24 @@
  
 
    ## Installation
-   * l 
+   * demo 
 
    ## Usage 
-   * l
+   * demo
 
    ## License
    * ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
-   <br />
    * This application is covered by MIT
 
    ## Contributing
-   * l
+   * just me
 
    ## Test
-   * l
+   * node
 
    ## Questions
-   * l
-   * :octocat: My github is: [l](https://github.com/l)<br />
-   *  Email me with questions: l<br /><br />
+   * email or github me
+   * :octocat: My github is: [fidel-bello](https://github.com/fidel-bello)<br />
+   *  Email me with questions: fidel_23@live.com<br /><br />
 
   
