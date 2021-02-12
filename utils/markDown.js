@@ -2,11 +2,11 @@
 function generateMarkdown(data) {
     return `
     ${data.Title}
-    
-    ## Description
-    * ${data.Description}
 
-    ## Table of Contents
+   ## Description
+   * ${data.Description}
+
+   ## Table of Contents
    -[Description](#Description)
    -[Installation](#Installation)
    -[Usage](#Usage)
@@ -35,8 +35,8 @@ function generateMarkdown(data) {
 
    ## Questions
    * ${data.Questions}
-   * :octocat: My github is: [${data.UserName}](https://github.com/${data.UserName})<br />
-   *  Email me with questions: ${data.Email}<br /><br />
+   * My github is: [${data.UserName}](https://github.com/${data.UserName})<br />
+   * Email me with questions: ${data.Email}<br /><br />
 
   `
   }

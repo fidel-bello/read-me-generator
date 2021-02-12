@@ -1,10 +1,10 @@
 
     Read Me Generator
-    
-    ## Description
-    * demo
 
-    ## Table of Contents
+   ## Description
+   * demo
+
+   ## Table of Contents
    -[Description](#Description)
    -[Installation](#Installation)
    -[Usage](#Usage)
@@ -29,11 +29,11 @@
    * demo 
 
    ## Test
-   * demo 
+   * demo
 
    ## Questions
    * demo
-   * :octocat: My github is: [fidel-bello](https://github.com/fidel-bello)<br />
-   *  Email me with questions: fidel_23@live.com<br /><br />
+   * My github is: [fidel-bello](https://github.com/fidel-bello)<br />
+   * Email me with questions: fidel_23@live.com<br /><br />
 
   
