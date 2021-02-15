@@ -2,13 +2,13 @@
    <h1 align="center">Read Me Generator</h1>
 
    ## Description
-   * demo
+   * video demo
 
    ## Table of Contents
    * [Description](#Description)
    * [Installation](#Installation)
    * [Usage](#Usage)
-   * [licence](#License)
+   * [license](#License)
    * [Contributing](#Contributing)
    * [Test](#Test)
    * [Questions](#Questions)
@@ -16,23 +16,23 @@
  
 
    ## Installation
-   * demo 
+   * video demo 
 
    ## Usage 
-   * demo
+   * video demo
 
    ## License
    * ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
    * This application is covered by MIT
 
    ## Contributing
-   * demo
+   * video demo
 
    ## Test
-   * demo
+   * video demo
 
    ## Questions
-   * demo
+   * video demo
    * My github is: [fidel-bello](https://github.com/fidel-bello)
    * Email me with questions: fidel_23@live.com
 
