@@ -27,7 +27,7 @@ const questions = [
 },
 {
     type: "input", 
-    message: "what is this project used for?",
+    message: "How is this project used?",
     name: "Usage",
 },
 {

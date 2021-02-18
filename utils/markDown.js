@@ -24,7 +24,7 @@ function generateMarkdown(data) {
    * ${data.Usage}
 
    ## License
-   * ![badge](https://img.shields.io/badge/license-${data.License}-brightgreen)
+   * ![badge](https://img.shields.io/badge/license-${data.License}-blue)
    * This application is covered by ${data.License}
 
    ## Contributing
