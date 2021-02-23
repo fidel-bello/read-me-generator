@@ -39,4 +39,6 @@
    * My github is: [fidel-bello](https://github.com/fidel-bello)
    * Email me with questions: fidel_23@live.com
 
+ ## link to walkthrough video
+ https://drive.google.com/file/d/1GHQhvmNw08P1GNbpPEEXcciLDIwtjIn4/view?usp=sharing
   
