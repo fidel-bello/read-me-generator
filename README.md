@@ -18,11 +18,10 @@
    ## Installation
    * This app uses npm packages 
    * in terminal, npm init -y
-   * npm i inquirer
+   * npm install
 
    ## Usage 
-   *  run the commant node index.js
-   * then the user will be prompted questions regarding project
+   *  in terminal, run node index.js
   
    ## License
    * ![badge](https://img.shields.io/badge/license-MIT-blue)
