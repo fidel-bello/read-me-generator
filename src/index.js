@@ -80,7 +80,7 @@ function writeToFile(fileName, data, folderName) {
 // function to initialize program
 function init() {
     inquirer.prompt(questions).then(function (data) {
-        writeToFile("README.md", generateMarkdown(data), "Demo-Folder");
+        writeToFile("README.md", generateMarkdown(data), "../Demo-Folder");
     });
 }
 
