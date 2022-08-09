@@ -1,5 +1,5 @@
 // function to generate markdown for README
-function generateMarkdown(data) {
+export function generateMarkdown(data) {
     return `
    <h1 align="center">${data.Title}</h1>
 
@@ -37,7 +37,5 @@ function generateMarkdown(data) {
    * ${data.Questions}
    * My github is: [${data.UserName}](https://github.com/${data.UserName})
    * Email me with questions: ${data.Email}
-
-  `
-  }
-  module.exports = generateMarkdown;
+        `
+    }
