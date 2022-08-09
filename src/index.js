@@ -1,7 +1,7 @@
 //imports
-const inquirer = require('inquirer');
-const fs = require('fs')
-const markDown = require('./utils/markDown');
+import inquirer from 'inquirer'
+import fs from 'fs';
+import { generateMarkdown } from "./utils/markDown.js";
 // array of questions for user
 const questions = [
     {
@@ -22,7 +22,7 @@ const questions = [
     },
     {
         type: "input",
-        message: "What are neccessary dependancies for this application?",
+        message: "What are necessary dependencies for this application?",
         name: "Installation",
     },
     {
@@ -75,14 +75,14 @@ function writeToFile(fileName, data, folderName) {
         }
         console.log("Success!");
     });
-};
+}
 
 // function to initialize program
 function init() {
     inquirer.prompt(questions).then(function (data) {
-        writeToFile("README.md", markDown(data), "Demo-Folder");
+        writeToFile("README.md", generateMarkdown(data), "Demo-Folder");
     });
-};
+}
 
 // function call to initialize program
 init();
