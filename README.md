@@ -18,6 +18,7 @@
    * npm install
 
    ## Usage 
+   * create a Demo-Folder directory outside of src
    *  in terminal, run node index.js
   
    ## License
